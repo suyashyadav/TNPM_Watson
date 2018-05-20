@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<record>
+<security>IBM CONFIDENTIAL</security>
+<PMRNO>86731</PMRNO>
+<BNO>999</BNO>
+<CNO>744</CNO>
+<CREATE_DATE>15/03/23</CREATE_DATE>
+<COMMENT>not able to run inventory command in the Datamart serv</COMMENT>
+<STATUS>C</STATUS>
+<text><line num="0" date="2015-03-23 04:14:53" signature="true"> +SUNITHA KAKDE1        -5724W8600  -L652/FP0   -P1S1-15/03/23-08:14 -CE</line>
+<line num="1" date="2015-03-23 04:14:53">Entitlement checked: YES via ccms                                       </line>
+<line num="2" date="2015-03-23 04:14:53">Email:      proviso.admin@tatatel.co.in, noccnms.mis@tatatel.co.in      </line>
+<line num="3" date="2015-03-23 04:14:53">Environment:  aix 6.1                                                   </line>
+<line num="4" date="2015-03-23 04:14:53">Product Failing:  TNPM 1.3                                              </line>
+<line num="5" date="2015-03-23 04:14:53">Problem Description:                                                    </line>
+<line num="6" date="2015-03-23 04:14:53">We are not able to run inventory command in the Datamart server for a   </line>
+<line num="7" date="2015-03-23 04:14:53">specific profile name : CISCO_DCNsIt is giving error aborted  .         </line>
+<line num="8" date="2015-03-23 04:15:37">                                                                        </line>
+<line num="9" date="2015-03-23 04:15:37">Please help us solve this issue ASAP.                                   </line>
+<line num="10" date="2015-03-23 04:15:37">PMR                                                                     </line>
+<line num="11" date="2015-03-23 04:15:37">Created via mail /Phone: Mail                                           </line>
+<line num="12" date="2015-03-23 04:15:37" signature="true"> +SUNITHA KAKDE1        -5724W8600  -L50L/-------P1S1-15/03/23-08:14 -AL</line>
+<line num="13" date="2015-03-23 04:15:37" signature="true"> +CCMS, EUROPE          -5724W8600  -L29C/-------P1S1-15/03/23-08:14 -AL</line>
+<line num="14" date="2015-03-23 04:15:37" signature="true"> -CDDR22 PMRUPDATE RS4  -5724W8600  -L203/-------P1S1-15/03/23-08:15 -AT</line>
+<line num="15" date="2015-03-23 04:15:37">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="16" date="2015-03-23 04:20:07">Mail From: Regional Contact Centre &lt;rccindia@in.ibm.com&gt;                </line>
+<line num="17" date="2015-03-23 04:20:07">/ecurep/pmr/8/6/86731,999,744/mail20150323-091523-Regional_Contact_Centr</line>
+<line num="18" date="2015-03-23 04:20:07">File: mail.html                                  15855 bytes            </line>
+<line num="19" date="2015-03-23 04:20:07">File: mail.wri                                    5327 bytes            </line>
+<line num="20" date="2015-03-23 04:20:07" signature="true"> -CDDR22 PMRUPDATE RS4  -5724W8600  -L652/FP0   -P1S1-15/03/23-08:15 SCG</line>
+<line num="21" date="2015-03-23 04:20:07" signature="true"> +ISCROBOT3             -5724W8600  -L652/FP0   -P1S1-15/03/23-08:20 -CR</line>
+<line num="22" date="2015-03-23 04:20:07"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="23" date="2015-03-23 04:20:07">ISC AUS ROBOT 2 (godzilla) - Requeue primary to TNPM,12H                </line>
+<line num="24" date="2015-03-23 04:24:20">Requeue by rule: General Fastpass Rule; Ent not reqd                    </line>
+<line num="25" date="2015-03-23 04:24:20" signature="true"> +ISCROBOT2             -5724W8600  -L652/FP0   -P1S1-15/03/23-08:20 SCR</line>
+<line num="26" date="2015-03-23 04:24:20"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="27" date="2015-03-23 04:24:20">ISC AUS ROBOT 2 (gamera) - Requeue secondary to TNPM,12H                </line>
+<line num="28" date="2015-03-23 04:24:20">Requeue by rule: General Fastpass Rule; Ent not reqd                    </line>
+<line num="29" date="2015-03-23 04:24:20" signature="true"> +SAMMANWAR, SUSHANT    -5724W8600  -L12H/TNPM  -P1S1-15/03/23-08:23 -CR</line>
+<line num="30" date="2015-03-23 04:24:20" signature="true"> +SAMMANWAR, SUSHANT    -5724W8600  -L12H/NCPROV-P1S1-15/03/23-08:23 -AT</line>
+<line num="31" date="2015-03-23 04:24:20"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="32" date="2015-03-23 04:53:52" signature="true"> +SAMMANWAR, SUSHANT    -5724W8600  -L12H/TNPM  -P1S1-15/03/23-08:23 SCR</line>
+<line num="33" date="2015-03-23 04:53:52" signature="true"> +SAMMANWAR, SUSHANT    -5724W8600  -L12H/NCPROV-P1S1-15/03/23-08:23 SAT</line>
+<line num="34" date="2015-03-23 04:53:52"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="35" date="2015-03-23 04:53:52" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/NCPROV-P1S1-15/03/23-08:53 -CT</line>
+<line num="36" date="2015-03-23 04:53:52" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/-------P1S1-15/03/23-08:53 -AT</line>
+<line num="37" date="2015-03-23 04:53:52">Contact Made                                                            </line>
+<line num="38" date="2015-03-23 04:53:52" signature="true"> -CDDR23 PMRUPDATE RS4  -5724W8600  -L203/-------P1S1-15/03/23-08:53 -AT</line>
+<line num="39" date="2015-03-23 04:53:52">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="40" date="2015-03-23 04:53:52">------------------------------------------------------------------------</line>
+<line num="41" date="2015-03-23 04:53:52">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="42" date="2015-03-23 04:53:52">/ecurep/pmr/8/6/86731,999,744/mail20150323-095310-tivoli_support        </line>
+<line num="43" date="2015-03-23 04:53:52">File: mail.html                                   2670 bytes            </line>
+<line num="44" date="2015-03-23 04:53:52">File: mail.wri                                     848 bytes            </line>
+<line num="45" date="2015-03-23 04:53:52">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="46" date="2015-03-23 04:53:52">This email was also sent to: proviso.admin@tatatel.co.in,               </line>
+<line num="47" date="2015-03-23 04:53:52">noccnms.mis@tatatel.co.in                                               </line>
+<line num="48" date="2015-03-23 04:53:52">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;   </line>
+<line num="49" date="2015-03-23 04:53:52">----------------------------------------------------------------------- </line>
+<line num="50" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="51" date="2015-03-23 04:53:52">Action Taken: Sent mail to customer.                                    </line>
+<line num="52" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="53" date="2015-03-23 04:53:52">Hi,                                                                     </line>
+<line num="54" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="55" date="2015-03-23 04:53:52">Good Day.                                                               </line>
+<line num="56" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="57" date="2015-03-23 04:53:52">This is to acknowledge the receipt of your PMR 86731,999,744. We will   </line>
+<line num="58" date="2015-03-23 04:53:52">assist you to resolve your issue.                                       </line>
+<line num="59" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="60" date="2015-03-23 04:53:52">Please provide us below details for investigation of issue,             </line>
+<line num="61" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="62" date="2015-03-23 04:53:52">1) Provide us the command which you have used to run the inventory.     </line>
+<line num="63" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="64" date="2015-03-23 04:53:52">2) Kindly provide the traceInventory.log.                               </line>
+<line num="65" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="66" date="2015-03-23 04:53:52">3) Output on the terminal or error which you are getting for profile    </line>
+<line num="67" date="2015-03-23 04:53:52">inventory.                                                              </line>
+<line num="68" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="69" date="2015-03-23 04:53:52">Thank you.                                                              </line>
+<line num="70" date="2015-03-23 04:53:52">Regards,                                                                </line>
+<line num="71" date="2015-03-23 04:53:52">Bhanu Singh                                                             </line>
+<line num="72" date="2015-03-23 04:53:52">L2 Support, TNPM.                                                       </line>
+<line num="73" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="74" date="2015-03-23 04:53:52">----------------------------------------------------------------------- </line>
+<line num="75" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="76" date="2015-03-23 04:53:52">Action plan: Wait for customer Response.                                </line>
+<line num="77" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="78" date="2015-03-23 04:53:52">----------------------------------------------------------------------- </line>
+<line num="79" date="2015-03-23 04:53:52">.                                                                       </line>
+<line num="80" date="2015-03-23 05:00:05">NCC: 23/03/2015                                                         </line>
+<line num="81" date="2015-03-23 05:00:05">.                                                                       </line>
+<line num="82" date="2015-03-23 05:00:05">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="83" date="2015-03-23 05:00:05" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/-------P1S1-15/03/23-08:55 -AL</line>
+<line num="84" date="2015-03-23 05:00:05" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/-------P1S1-15/03/23-08:55 -AL</line>
+<line num="85" date="2015-03-23 05:00:05" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/NCPROV-P1S1-15/03/23-08:55 -CR</line>
+<line num="86" date="2015-03-23 05:00:05" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/NCPROW-P1S1-15/03/23-08:55 -AT</line>
+<line num="87" date="2015-03-23 05:00:05"> S5&gt; SERVICE GIVEN= 9I  SG/9I/                                          </line>
+<line num="88" date="2015-03-23 05:20:02" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/NCPROV-P1S1-15/03/23-08:59 SCT</line>
+<line num="89" date="2015-03-23 05:20:02" signature="true"> +KIDILE, RUSHABHDEO    -5724W8600  -L12H/-------P1S1-15/03/23-08:59 -AT</line>
+<line num="90" date="2015-03-23 05:20:02">Contact Made                                                            </line>
+<line num="91" date="2015-03-23 05:20:02" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P1S1-15/03/23-09:09 -AL</line>
+<line num="92" date="2015-03-23 05:20:02" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P1S1-15/03/23-09:09 SCC</line>
+<line num="93" date="2015-03-23 05:20:02" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P1S1-15/03/23-09:09 SAT</line>
+<line num="94" date="2015-03-23 05:20:02"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="95" date="2015-03-23 05:20:02" signature="true"> -CDDR19 PMRUPDATE BDC  -5724P59DM  -L503/-------P1S1-15/03/23-09:19 -AT</line>
+<line num="96" date="2015-03-23 06:09:37">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="97" date="2015-03-23 06:09:37">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="98" date="2015-03-23 06:09:37">/ecurep/pmr/8/6/86731,999,744/mail20150323-101916-Noccnms.Mis           </line>
+<line num="99" date="2015-03-23 06:09:37">File: TraceInventory.log                           918 bytes            </line>
+<line num="100" date="2015-03-23 06:09:37">File: mail.html                                  14261 bytes            </line>
+<line num="101" date="2015-03-23 06:09:37">File: mail.wri                                    3226 bytes            </line>
+<line num="102" date="2015-03-23 06:09:37" signature="true"> -CDDR19 PMRUPDATE BDC  -5724P59DM  -L12H/NCPROV-P1S1-15/03/23-09:19 SCG</line>
+<line num="103" date="2015-03-23 06:09:37" signature="true"> -CDDR6 PMRUPDATE RS4   -5724P59DM  -L203/-------P1S1-15/03/23-10:09 -AT</line>
+<line num="104" date="2015-03-23 06:09:37">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="105" date="2015-03-23 06:09:37">------------------------------------------------------------------------</line>
+<line num="106" date="2015-03-23 06:09:37">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="107" date="2015-03-23 06:09:37">/ecurep/pmr/8/6/86731,999,744/mail20150323-110905-tivoli_support        </line>
+<line num="108" date="2015-03-23 06:09:37">File: mail.html                                  17909 bytes            </line>
+<line num="109" date="2015-03-23 06:09:37">File: mail.wri                                    4307 bytes            </line>
+<line num="110" date="2015-03-23 06:09:37">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="111" date="2015-03-23 06:09:37">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="112" date="2015-03-23 06:09:37">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="113" date="2015-03-23 06:09:37">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="114" date="2015-03-23 06:09:37">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="115" date="2015-03-23 06:09:37">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="116" date="2015-03-23 06:09:37">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="117" date="2015-03-23 06:09:37">Action Taken: sent mail to customer.                                    </line>
+<line num="118" date="2015-03-23 06:09:37">.                                                                       </line>
+<line num="119" date="2015-03-23 06:09:37">Hi Vishal,                                                              </line>
+<line num="120" date="2015-03-23 06:09:37">.                                                                       </line>
+<line num="121" date="2015-03-23 06:09:37">As discussed on call, we are degrading the severity 1 to severity2.     </line>
+<line num="122" date="2015-03-23 06:09:37">.                                                                       </line>
+<line num="123" date="2015-03-23 06:09:37">Also we have completed our investigation and below are the findings.    </line>
+<line num="124" date="2015-03-23 06:09:37">.                                                                       </line>
+<line num="125" date="2015-03-23 06:09:37">1)  From the logs, looks like either dataLoad server is down or some    </line>
+<line num="126" date="2015-03-23 06:09:37">network issue.                                                          </line>
+<line num="127" date="2015-03-23 06:09:37">.                                                                       </line>
+<line num="128" date="2015-03-23 06:09:37">2) Run below commands and check if collector is running                 </line>
+<line num="129" date="2015-03-23 06:09:37">      a. ps -ef | grep pvmd                                             </line>
+<line num="130" date="2015-03-23 06:09:37">      b. pvmdctrl status                                                </line>
+<line num="131" date="2015-03-23 06:09:37">3)  If there is no pvmd process running, start using &quot;pvmdmgr start&quot;    </line>
+<line num="132" date="2015-03-23 06:09:37">command.                                                                </line>
+<line num="133" date="2015-03-23 06:09:37">.                                                                       </line>
+<line num="134" date="2015-03-23 06:09:37">4) Then check dataLoad host is reachable from dataMart host - telnet    </line>
+<line num="135" date="2015-03-23 06:09:37">TTSLMUMDL2 3002                                                         </line>
+<line num="136" date="2015-03-23 06:09:38">.                                                                       </line>
+<line num="137" date="2015-03-23 06:09:38">5)  At last, run inventory in debug mode - inventory -noX -action all   </line>
+<line num="138" date="2015-03-23 06:09:38">-name &lt;profile name&gt; -D 10                                              </line>
+<line num="139" date="2015-03-23 06:09:38">.                                                                       </line>
+<line num="140" date="2015-03-23 06:09:38">6) Upload TraceInventory.log, proviso.log files.                        </line>
+<line num="141" date="2015-03-23 06:09:38">.                                                                       </line>
+<line num="142" date="2015-03-23 06:09:38">Action Plan: Waiting for customer response.                             </line>
+<line num="143" date="2015-03-23 06:09:38">.                                                                       </line>
+<line num="144" date="2015-03-23 06:10:40">NCC: 24th March 2015.                                                   </line>
+<line num="145" date="2015-03-23 06:10:40">.                                                                       </line>
+<line num="146" date="2015-03-23 06:10:40">Thanks &amp;  Regards,                                                      </line>
+<line num="147" date="2015-03-23 06:10:40">Bhanu Singh                                                             </line>
+<line num="148" date="2015-03-23 06:10:40">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="149" date="2015-03-23 06:10:40" signature="true"> -CDDR3 PMRUPDATE BDC   -5724P59DM  -L503/-------P1S1-15/03/23-10:09 -AT</line>
+<line num="150" date="2015-03-23 06:10:40">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="151" date="2015-03-23 06:10:40">Mail From: Venkata Prasad P &lt;VenkataPrasad.Potturi@tatatel.co.in&gt;       </line>
+<line num="152" date="2015-03-23 06:17:47">/ecurep/pmr/8/6/86731,999,744/mail20150323-110930-Venkata_Prasad_P      </line>
+<line num="153" date="2015-03-23 06:17:47">File: mail.html                                   4425 bytes            </line>
+<line num="154" date="2015-03-23 06:17:47">File: mail.wri                                    1783 bytes            </line>
+<line num="155" date="2015-03-23 06:17:47" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P1S1-15/03/23-10:15 SCT</line>
+<line num="156" date="2015-03-23 06:17:47" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P1S1-15/03/23-10:15 -AT</line>
+<line num="157" date="2015-03-23 06:17:47">Contact Made                                                            </line>
+<line num="158" date="2015-03-23 06:17:47" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P1S1-15/03/23-10:16 -AL</line>
+<line num="159" date="2015-03-23 06:17:47" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P1S1-15/03/23-10:17 -AL</line>
+<line num="160" date="2015-03-23 06:46:56" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P1S2-15/03/23-10:17 SCC</line>
+<line num="161" date="2015-03-23 06:46:56" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P1S2-15/03/23-10:17 SAT</line>
+<line num="162" date="2015-03-23 06:46:56"> S5&gt; SERVICE GIVEN= 59  SG/59/                                          </line>
+<line num="163" date="2015-03-23 06:46:56" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P1S2-15/03/23-10:26 -AL</line>
+<line num="164" date="2015-03-23 06:46:56" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROW-P2S2-15/03/23-10:29 -CR</line>
+<line num="165" date="2015-03-23 06:46:56" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROW-P2S2-15/03/23-10:29 -AT</line>
+<line num="166" date="2015-03-23 06:46:56"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="167" date="2015-03-23 06:46:56" signature="true"> -CDDR11 PMRUPDATE BDC  -5724P59DM  -L503/-------P2S2-15/03/23-10:46 -AT</line>
+<line num="168" date="2015-03-23 07:06:30">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="169" date="2015-03-23 07:06:30">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="170" date="2015-03-23 07:06:30">/ecurep/pmr/8/6/86731,999,744/mail20150323-114604-Noccnms.Mis           </line>
+<line num="171" date="2015-03-23 07:06:30">File: mail.html                                  27214 bytes            </line>
+<line num="172" date="2015-03-23 07:06:30">File: mail.wri                                    6727 bytes            </line>
+<line num="173" date="2015-03-23 07:06:30" signature="true"> -CDDR11 PMRUPDATE BDC  -5724P59DM  -L12H/NCPROV-P2S2-15/03/23-10:46 SCG</line>
+<line num="174" date="2015-03-23 07:06:30" signature="true"> -CDDR29 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/23-11:06 -AT</line>
+<line num="175" date="2015-03-23 07:06:30">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="176" date="2015-03-23 07:06:30">------------------------------------------------------------------------</line>
+<line num="177" date="2015-03-23 07:06:30">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="178" date="2015-03-23 07:06:30">/ecurep/pmr/8/6/86731,999,744/mail20150323-120605-tivoli_support        </line>
+<line num="179" date="2015-03-23 07:06:30">File: mail.html                                  30972 bytes            </line>
+<line num="180" date="2015-03-23 07:06:30">File: mail.wri                                    8067 bytes            </line>
+<line num="181" date="2015-03-23 07:06:30">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="182" date="2015-03-23 07:06:30">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="183" date="2015-03-23 07:06:30">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="184" date="2015-03-23 07:06:30">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="185" date="2015-03-23 07:06:30">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="186" date="2015-03-23 07:06:30">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="187" date="2015-03-23 07:06:30">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="188" date="2015-03-23 07:06:30">Action Taken: sent mail to customer to start pvmd process.              </line>
+<line num="189" date="2015-03-23 07:06:30">============                                                            </line>
+<line num="190" date="2015-03-23 07:06:30">.                                                                       </line>
+<line num="191" date="2015-03-23 07:06:30">Hi Vishal,                                                              </line>
+<line num="192" date="2015-03-23 07:06:30">.                                                                       </line>
+<line num="193" date="2015-03-23 07:06:30">As discussed, from screenshot pvmd process is not running.              </line>
+<line num="194" date="2015-03-23 07:06:30">.                                                                       </line>
+<line num="195" date="2015-03-23 07:06:30">1) source the dataload env.                                             </line>
+<line num="196" date="2015-03-23 07:06:30"> cd $DL_PRODUCT_HOME                                                    </line>
+<line num="197" date="2015-03-23 07:06:30"> source /opt/dataload/dataLoad.env                                      </line>
+<line num="198" date="2015-03-23 07:06:30">.                                                                       </line>
+<line num="199" date="2015-03-23 07:06:30">2) start using &quot;pvmdmgr start&quot; command.                                 </line>
+<line num="200" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="201" date="2015-03-23 07:06:31">3) check for ps -ef|grep -i pvmd                                        </line>
+<line num="202" date="2015-03-23 07:06:31">you will get an output like:                                            </line>
+<line num="203" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="204" date="2015-03-23 07:06:31">bash-3.2$ ps -ef|grep -i pvmd                                           </line>
+<line num="205" date="2015-03-23 07:06:31">  pvuser 18641  1002   0 16:27:37 pts/32      0:00 grep -i pvmd         </line>
+<line num="206" date="2015-03-23 07:06:31">  pvuser 14806 18706   4 16:27:22 pts/32      0:06                      </line>
+<line num="207" date="2015-03-23 07:06:31">/opt/dataload/bin/pvmd_3002 -nologo -noherald /opt/dataload/bin/dc.im   </line>
+<line num="208" date="2015-03-23 07:06:31">-headless                                                               </line>
+<line num="209" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="210" date="2015-03-23 07:06:31">It means your pvmd process is running, pvmd process is data collection  </line>
+<line num="211" date="2015-03-23 07:06:31">process for devices in SNMP DL.                                         </line>
+<line num="212" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="213" date="2015-03-23 07:06:31">2) Then check dataLoad host is reachable from dataMart host - telnet    </line>
+<line num="214" date="2015-03-23 07:06:31">TTSLMUMDL2 3002                                                         </line>
+<line num="215" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="216" date="2015-03-23 07:06:31">3)  At last, run inventory in debug mode - inventory -noX -action all   </line>
+<line num="217" date="2015-03-23 07:06:31">-name &lt;profile name&gt; -D 10                                              </line>
+<line num="218" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="219" date="2015-03-23 07:06:31">4) Upload TraceInventory.log, proviso.log files.                        </line>
+<line num="220" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="221" date="2015-03-23 07:06:31">Please let us know in case of any concern.                              </line>
+<line num="222" date="2015-03-23 07:06:31">.                                                                       </line>
+<line num="223" date="2015-03-23 07:06:31">Thanks  &amp;  regards,                                                     </line>
+<line num="224" date="2015-03-23 08:09:42">Bhanu Singh                                                             </line>
+<line num="225" date="2015-03-23 08:09:42">.                                                                       </line>
+<line num="226" date="2015-03-23 08:09:42">Action plan: waiting for customer response.                             </line>
+<line num="227" date="2015-03-23 08:09:42">.                                                                       </line>
+<line num="228" date="2015-03-23 08:09:42">NCC: 24th March 2015.                                                   </line>
+<line num="229" date="2015-03-23 08:09:42">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="230" date="2015-03-23 08:09:42" signature="true"> -CDDR2 PMRUPDATE BDC   -5724P59DM  -L503/-------P2S2-15/03/23-12:09 -AT</line>
+<line num="231" date="2015-03-23 08:09:42">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="232" date="2015-03-23 09:16:11">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="233" date="2015-03-23 09:16:11">/ecurep/pmr/8/6/86731,999,744/mail20150323-130853-Noccnms.Mis           </line>
+<line num="234" date="2015-03-23 09:16:11">File: mail.html                                  38225 bytes            </line>
+<line num="235" date="2015-03-23 09:16:11">File: mail.wri                                   10356 bytes            </line>
+<line num="236" date="2015-03-23 09:16:11" signature="true"> -CDDR25 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/23-13:15 -AT</line>
+<line num="237" date="2015-03-23 09:16:11">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="238" date="2015-03-23 09:16:11">------------------------------------------------------------------------</line>
+<line num="239" date="2015-03-23 09:16:11">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="240" date="2015-03-23 09:16:11">/ecurep/pmr/8/6/86731,999,744/mail20150323-141543-tivoli_support        </line>
+<line num="241" date="2015-03-23 09:16:11">File: mail.html                                  40265 bytes            </line>
+<line num="242" date="2015-03-23 09:16:11">File: mail.wri                                   11174 bytes            </line>
+<line num="243" date="2015-03-23 09:16:11">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="244" date="2015-03-23 09:16:11">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="245" date="2015-03-23 09:16:11">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="246" date="2015-03-23 09:16:11">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="247" date="2015-03-23 09:16:11">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="248" date="2015-03-23 09:16:11">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="249" date="2015-03-23 09:16:11">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="250" date="2015-03-23 09:16:11">Action Taken: sent mail to customer to check with network team.         </line>
+<line num="251" date="2015-03-23 09:16:11">============                                                            </line>
+<line num="252" date="2015-03-23 09:16:11">.                                                                       </line>
+<line num="253" date="2015-03-23 09:16:11">Hi Pandu,                                                               </line>
+<line num="254" date="2015-03-23 09:16:11">.                                                                       </line>
+<line num="255" date="2015-03-23 09:16:11"> SNMP DL is not able to login at your end, so please contact your       </line>
+<line num="256" date="2015-03-23 09:16:11">network or device team.                                                 </line>
+<line num="257" date="2015-03-23 09:16:11"> Once DL is up and running will  start the pvmd process.                </line>
+<line num="258" date="2015-03-23 09:16:11">.                                                                       </line>
+<line num="259" date="2015-03-23 09:16:11">Thanks &amp;  regrads,                                                      </line>
+<line num="260" date="2015-03-23 09:16:11">Bhanu Singh                                                             </line>
+<line num="261" date="2015-03-23 09:16:11">.                                                                       </line>
+<line num="262" date="2015-03-23 09:16:11">Action Plan : Waiting for customer response.                            </line>
+<line num="263" date="2015-03-23 09:16:11">============                                                            </line>
+<line num="264" date="2015-03-23 09:55:16">NCC: 24th March 2015.                                                   </line>
+<line num="265" date="2015-03-23 09:55:16">====                                                                    </line>
+<line num="266" date="2015-03-23 09:55:16">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="267" date="2015-03-23 09:55:16" signature="true"> -CDDR19 PMRUPDATE BDC  -5724P59DM  -L503/-------P2S2-15/03/23-13:54 -AT</line>
+<line num="268" date="2015-03-23 09:55:16">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="269" date="2015-03-23 09:55:16">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="270" date="2015-03-23 09:55:16">/ecurep/pmr/8/6/86731,999,744/mail20150323-145440-Noccnms.Mis           </line>
+<line num="271" date="2015-03-23 09:55:16">File: mail.html                                  46115 bytes            </line>
+<line num="272" date="2015-03-23 10:18:37">File: mail.wri                                   13220 bytes            </line>
+<line num="273" date="2015-03-23 10:18:37" signature="true"> -CDDR21 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/23-14:18 -AT</line>
+<line num="274" date="2015-03-23 10:18:37">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="275" date="2015-03-23 10:18:37">------------------------------------------------------------------------</line>
+<line num="276" date="2015-03-23 10:18:37">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="277" date="2015-03-23 10:18:37">/ecurep/pmr/8/6/86731,999,744/mail20150323-151820-tivoli_support        </line>
+<line num="278" date="2015-03-23 10:18:37">File: mail.html                                  48243 bytes            </line>
+<line num="279" date="2015-03-23 10:18:37">File: mail.wri                                   14118 bytes            </line>
+<line num="280" date="2015-03-23 10:18:37">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="281" date="2015-03-23 10:18:37">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="282" date="2015-03-23 10:18:37">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="283" date="2015-03-23 10:18:37">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="284" date="2015-03-23 10:18:37">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="285" date="2015-03-23 10:18:37">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="286" date="2015-03-23 10:18:37">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="287" date="2015-03-23 10:18:37">.                                                                       </line>
+<line num="288" date="2015-03-23 10:18:37">Action Taken: sent mail to customer.                                    </line>
+<line num="289" date="2015-03-23 10:18:37">.                                                                       </line>
+<line num="290" date="2015-03-23 10:18:37">Hi Pandu,                                                               </line>
+<line num="291" date="2015-03-23 10:18:37">.                                                                       </line>
+<line num="292" date="2015-03-23 10:18:37">Thanks for the update.                                                  </line>
+<line num="293" date="2015-03-23 10:18:37">.                                                                       </line>
+<line num="294" date="2015-03-23 10:18:37">Please keep us posted  with latest updates.                             </line>
+<line num="295" date="2015-03-23 10:18:37">.                                                                       </line>
+<line num="296" date="2015-03-23 10:19:09">Thanks &amp; regards,                                                       </line>
+<line num="297" date="2015-03-23 10:19:09">Bhanu Singh                                                             </line>
+<line num="298" date="2015-03-23 10:19:09">.                                                                       </line>
+<line num="299" date="2015-03-23 10:19:09">Action plan: Waiting for customer response.                             </line>
+<line num="300" date="2015-03-23 10:19:09">.                                                                       </line>
+<line num="301" date="2015-03-23 10:19:09">NCC: 24th March 2015.                                                   </line>
+<line num="302" date="2015-03-23 10:19:09">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="303" date="2015-03-23 10:19:09" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/23-14:18 SCT</line>
+<line num="304" date="2015-03-23 23:21:45" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/23-14:18 -AT</line>
+<line num="305" date="2015-03-23 23:21:45">Contact Made                                                            </line>
+<line num="306" date="2015-03-23 23:21:45" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/23-14:19 SCC</line>
+<line num="307" date="2015-03-23 23:21:45" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/23-14:19 SAT</line>
+<line num="308" date="2015-03-23 23:21:45"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="309" date="2015-03-23 23:21:45" signature="true"> -CDDR4 PMRUPDATE BDC   -5724P59DM  -L503/-------P2S2-15/03/24-03:21 -AT</line>
+<line num="310" date="2015-03-23 23:21:45">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="311" date="2015-03-23 23:21:45">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="312" date="2015-03-24 00:02:56">/ecurep/pmr/8/6/86731,999,744/mail20150324-042054-Noccnms.Mis           </line>
+<line num="313" date="2015-03-24 00:02:56">File: mail.html                                  54906 bytes            </line>
+<line num="314" date="2015-03-24 00:02:56">File: mail.wri                                   16189 bytes            </line>
+<line num="315" date="2015-03-24 00:02:56" signature="true"> -CDDR4 PMRUPDATE BDC   -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-03:21 SCG</line>
+<line num="316" date="2015-03-24 00:02:56" signature="true"> -CDDR24 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/24-04:02 -AT</line>
+<line num="317" date="2015-03-24 00:02:56">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="318" date="2015-03-24 00:02:56">------------------------------------------------------------------------</line>
+<line num="319" date="2015-03-24 00:02:56">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="320" date="2015-03-24 00:02:56">/ecurep/pmr/8/6/86731,999,744/mail20150324-050200-tivoli_support        </line>
+<line num="321" date="2015-03-24 00:02:56">File: mail.html                                  57669 bytes            </line>
+<line num="322" date="2015-03-24 00:02:56">File: mail.wri                                   17658 bytes            </line>
+<line num="323" date="2015-03-24 00:02:56">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="324" date="2015-03-24 00:02:56">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="325" date="2015-03-24 00:02:56">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="326" date="2015-03-24 00:02:56">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="327" date="2015-03-24 00:02:56">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="328" date="2015-03-24 00:02:56">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="329" date="2015-03-24 00:02:56">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="330" date="2015-03-24 00:02:56">----------------------------------------------------------------------- </line>
+<line num="331" date="2015-03-24 00:02:56">Customer Response:                                                      </line>
+<line num="332" date="2015-03-24 00:02:56">.                                                                       </line>
+<line num="333" date="2015-03-24 00:02:56">Dear Bhanu ,                                                            </line>
+<line num="334" date="2015-03-24 00:02:56">.                                                                       </line>
+<line num="335" date="2015-03-24 00:02:56">Now , we are able to login into the data loader (10.18.41.137) . When I </line>
+<line num="336" date="2015-03-24 00:02:56">ran the command :  ps -ef|grep -i pvmd  ,  the output is as below :     </line>
+<line num="337" date="2015-03-24 00:02:56">.                                                                       </line>
+<line num="338" date="2015-03-24 00:02:56">Please tell us , further ,  how to proceed .                            </line>
+<line num="339" date="2015-03-24 00:02:56">.                                                                       </line>
+<line num="340" date="2015-03-24 00:02:56">Thanks &amp; Regards                                                        </line>
+<line num="341" date="2015-03-24 00:02:56">Vishal Gupta                                                            </line>
+<line num="342" date="2015-03-24 00:02:56">.                                                                       </line>
+<line num="343" date="2015-03-24 00:02:56">----------------------------------------------------------------------- </line>
+<line num="344" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="345" date="2015-03-24 00:02:57">Action Taken: Sent mail to Customer.                                    </line>
+<line num="346" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="347" date="2015-03-24 00:02:57">Hi Vishal,                                                              </line>
+<line num="348" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="349" date="2015-03-24 00:02:57">As you can see in the grepped output pvmd process is not running.       </line>
+<line num="350" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="351" date="2015-03-24 00:02:57">1)As a pvuser , source the dataload env.                                </line>
+<line num="352" date="2015-03-24 00:02:57"> cd $DL_PRODUCT_HOME                                                    </line>
+<line num="353" date="2015-03-24 00:02:57"> source dataLoad.env                                                    </line>
+<line num="354" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="355" date="2015-03-24 00:02:57">2) Start using &quot;pvmdmgr start&quot; command &amp; check its staus by pvmdctrl    </line>
+<line num="356" date="2015-03-24 00:02:57">status command.                                                         </line>
+<line num="357" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="358" date="2015-03-24 00:02:57">3) Then check dataLoad host is reachable from dataMart host - telnet    </line>
+<line num="359" date="2015-03-24 00:02:57">TTSLMUMDL2 3002                                                         </line>
+<line num="360" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="361" date="2015-03-24 00:02:57">4)  If yes, run inventory in debug mode - inventory -noX -action all    </line>
+<line num="362" date="2015-03-24 00:02:57">-name &lt;profile name&gt; -D 10                                              </line>
+<line num="363" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="364" date="2015-03-24 00:02:57">5) Then Collect &amp; upload TraceInventory.log &amp; proviso.log files.        </line>
+<line num="365" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="366" date="2015-03-24 00:02:57">Let us know if face any issue.                                          </line>
+<line num="367" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="368" date="2015-03-24 00:02:57">Thank you.                                                              </line>
+<line num="369" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="370" date="2015-03-24 00:02:57">Regards,                                                                </line>
+<line num="371" date="2015-03-24 00:02:57">Rushabhdeo Kidile                                                       </line>
+<line num="372" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="373" date="2015-03-24 00:02:57">----------------------------------------------------------------------- </line>
+<line num="374" date="2015-03-24 00:02:57">.                                                                       </line>
+<line num="375" date="2015-03-24 00:02:57">Action Plan: Wait for Customer Reponse.                                 </line>
+<line num="376" date="2015-03-24 00:10:01">.                                                                       </line>
+<line num="377" date="2015-03-24 00:10:01">----------------------------------------------------------------------- </line>
+<line num="378" date="2015-03-24 00:10:01">.                                                                       </line>
+<line num="379" date="2015-03-24 00:10:01">NCC: 25/03/2015                                                         </line>
+<line num="380" date="2015-03-24 00:10:01">.                                                                       </line>
+<line num="381" date="2015-03-24 00:10:01">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="382" date="2015-03-24 00:10:01" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-04:09 SCT</line>
+<line num="383" date="2015-03-24 00:10:01" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/24-04:09 -AT</line>
+<line num="384" date="2015-03-24 00:19:10">Contact Made                                                            </line>
+<line num="385" date="2015-03-24 00:19:10" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-04:09 SCC</line>
+<line num="386" date="2015-03-24 00:19:10" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-04:09 SAT</line>
+<line num="387" date="2015-03-24 00:19:10"> S5&gt; SERVICE GIVEN= 5M  SG/5M/                                          </line>
+<line num="388" date="2015-03-24 00:19:10" signature="true"> -CDDR4 PMRUPDATE BDC   -5724P59DM  -L503/-------P2S2-15/03/24-04:18 -AT</line>
+<line num="389" date="2015-03-24 00:19:10">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="390" date="2015-03-24 00:19:10">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="391" date="2015-03-24 00:19:10">/ecurep/pmr/8/6/86731,999,744/mail20150324-051829-Noccnms.Mis           </line>
+<line num="392" date="2015-03-24 02:06:41">File: mail.html                                  66187 bytes            </line>
+<line num="393" date="2015-03-24 02:06:41">File: mail.wri                                   19630 bytes            </line>
+<line num="394" date="2015-03-24 02:06:41" signature="true"> -CDDR4 PMRUPDATE BDC   -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-04:18 SCG</line>
+<line num="395" date="2015-03-24 02:06:41" signature="true"> -CDDR12 PMRUPDATE BDC  -5724P59DM  -L503/-------P2S2-15/03/24-06:06 -AT</line>
+<line num="396" date="2015-03-24 02:06:41">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="397" date="2015-03-24 02:06:41">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="398" date="2015-03-24 02:06:41">/ecurep/pmr/8/6/86731,999,744/mail20150324-070552-Noccnms.Mis           </line>
+<line num="399" date="2015-03-24 02:06:41">File: mail.html                                  69604 bytes            </line>
+<line num="400" date="2015-03-24 02:25:43">File: mail.wri                                   20322 bytes            </line>
+<line num="401" date="2015-03-24 02:25:43" signature="true"> -CDDR26 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/24-06:25 -AT</line>
+<line num="402" date="2015-03-24 02:25:43">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="403" date="2015-03-24 02:25:43">------------------------------------------------------------------------</line>
+<line num="404" date="2015-03-24 02:25:43">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="405" date="2015-03-24 02:25:43">/ecurep/pmr/8/6/86731,999,744/mail20150324-072456-tivoli_support        </line>
+<line num="406" date="2015-03-24 02:25:43">File: mail.html                                  68623 bytes            </line>
+<line num="407" date="2015-03-24 02:25:43">File: mail.wri                                   20842 bytes            </line>
+<line num="408" date="2015-03-24 02:25:43">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="409" date="2015-03-24 02:25:43">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="410" date="2015-03-24 02:25:43">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="411" date="2015-03-24 02:25:43">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="412" date="2015-03-24 02:25:43">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="413" date="2015-03-24 02:25:43">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="414" date="2015-03-24 02:25:43">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="415" date="2015-03-24 02:25:43">Action Taken: sent mail to customer.                                    </line>
+<line num="416" date="2015-03-24 02:25:43">=============                                                           </line>
+<line num="417" date="2015-03-24 02:25:43">.                                                                       </line>
+<line num="418" date="2015-03-24 02:25:43">Hi Vishal,                                                              </line>
+<line num="419" date="2015-03-24 02:25:43">.                                                                       </line>
+<line num="420" date="2015-03-24 02:25:43">Could you please share the output from dir  /opt/dataload  in           </line>
+<line num="421" date="2015-03-24 02:25:43">dataloader, use  command ls -lRt.                                       </line>
+<line num="422" date="2015-03-24 02:25:43">we would like to check whether permissions are present for files and    </line>
+<line num="423" date="2015-03-24 02:25:43">folders inside /opt/dataload.                                           </line>
+<line num="424" date="2015-03-24 02:33:19">.                                                                       </line>
+<line num="425" date="2015-03-24 02:33:19">Thanks &amp; regards,                                                       </line>
+<line num="426" date="2015-03-24 02:33:19">Bhanu Singh                                                             </line>
+<line num="427" date="2015-03-24 02:33:19">.                                                                       </line>
+<line num="428" date="2015-03-24 02:33:19">Action Plan: Waiting for customer response.                             </line>
+<line num="429" date="2015-03-24 02:33:19">.                                                                       </line>
+<line num="430" date="2015-03-24 02:33:19">NCC: 25th March 2015.                                                   </line>
+<line num="431" date="2015-03-24 02:33:19">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="432" date="2015-03-24 02:35:53" signature="true"> -CDDR5 PMRUPDATE BDC   -5724P59DM  -L503/-------P2S2-15/03/24-06:32 -AT</line>
+<line num="433" date="2015-03-24 02:35:53">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="434" date="2015-03-24 02:35:53">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="435" date="2015-03-24 02:35:53">/ecurep/pmr/8/6/86731,999,744/mail20150324-073214-Noccnms.Mis           </line>
+<line num="436" date="2015-03-24 02:35:53">File: mail.html                                  74889 bytes            </line>
+<line num="437" date="2015-03-24 02:35:53">File: mail.wri                                   22540 bytes            </line>
+<line num="438" date="2015-03-24 02:35:53" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-06:35 SCT</line>
+<line num="439" date="2015-03-24 02:35:53" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/24-06:35 -AT</line>
+<line num="440" date="2015-03-24 03:06:59">Contact Made                                                            </line>
+<line num="441" date="2015-03-24 03:06:59" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-06:35 SCC</line>
+<line num="442" date="2015-03-24 03:06:59" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-06:35 SAT</line>
+<line num="443" date="2015-03-24 03:06:59"> S5&gt; SERVICE GIVEN= 9I  SG/9I/                                          </line>
+<line num="444" date="2015-03-24 03:06:59" signature="true"> -CDDR29 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/24-07:06 -AT</line>
+<line num="445" date="2015-03-24 03:06:59">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="446" date="2015-03-24 03:06:59">------------------------------------------------------------------------</line>
+<line num="447" date="2015-03-24 03:06:59">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="448" date="2015-03-24 03:06:59">/ecurep/pmr/8/6/86731,999,744/mail20150324-080612-tivoli_support        </line>
+<line num="449" date="2015-03-24 03:06:59">File: mail.html                                  76309 bytes            </line>
+<line num="450" date="2015-03-24 03:06:59">File: mail.wri                                   23857 bytes            </line>
+<line num="451" date="2015-03-24 03:06:59">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="452" date="2015-03-24 03:06:59">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="453" date="2015-03-24 03:06:59">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="454" date="2015-03-24 03:06:59">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="455" date="2015-03-24 03:06:59">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="456" date="2015-03-24 03:07:00">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="457" date="2015-03-24 03:07:00">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="458" date="2015-03-24 03:07:00">----------------------------------------------------------------------- </line>
+<line num="459" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="460" date="2015-03-24 03:07:00">Customer Response:                                                      </line>
+<line num="461" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="462" date="2015-03-24 03:07:00">Dear Bhanu ,                                                            </line>
+<line num="463" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="464" date="2015-03-24 03:07:00">The output for checking permissions :                                   </line>
+<line num="465" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="466" date="2015-03-24 03:07:00">Thanks &amp; Regards                                                        </line>
+<line num="467" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="468" date="2015-03-24 03:07:00">Vishal Gupta                                                            </line>
+<line num="469" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="470" date="2015-03-24 03:07:00">----------------------------------------------------------------------- </line>
+<line num="471" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="472" date="2015-03-24 03:07:00">Hi Vishal,                                                              </line>
+<line num="473" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="474" date="2015-03-24 03:07:00">Thanks for update. As you can see, there is issue in your system.       </line>
+<line num="475" date="2015-03-24 03:07:00">Please contact your system administrator.                               </line>
+<line num="476" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="477" date="2015-03-24 03:07:00">Let us know when this problem is resolved.                              </line>
+<line num="478" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="479" date="2015-03-24 03:07:00">Thank you                                                               </line>
+<line num="480" date="2015-03-24 03:07:00">Regards,                                                                </line>
+<line num="481" date="2015-03-24 03:07:00">Rushabhdeo Kidile                                                       </line>
+<line num="482" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="483" date="2015-03-24 03:07:00">----------------------------------------------------------------------- </line>
+<line num="484" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="485" date="2015-03-24 03:07:00">Action Plan: Wait for Customer Response.                                </line>
+<line num="486" date="2015-03-24 03:07:00">.                                                                       </line>
+<line num="487" date="2015-03-24 03:07:00">----------------------------------------------------------------------- </line>
+<line num="488" date="2015-03-24 03:23:39">.                                                                       </line>
+<line num="489" date="2015-03-24 03:23:39">NCC: 26/03/2015                                                         </line>
+<line num="490" date="2015-03-24 03:23:39">.                                                                       </line>
+<line num="491" date="2015-03-24 03:23:39">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="492" date="2015-03-24 03:23:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROW-P2S2-15/03/24-07:07 -CT</line>
+<line num="493" date="2015-03-24 03:23:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/24-07:07 -AT</line>
+<line num="494" date="2015-03-24 03:23:39">Contact Made                                                            </line>
+<line num="495" date="2015-03-24 03:23:39" signature="true"> -CDDR15 PMRUPDATE BDC  -5724P59DM  -L503/-------P2S2-15/03/24-07:23 -AT</line>
+<line num="496" date="2015-03-24 03:41:31">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="497" date="2015-03-24 03:41:31">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="498" date="2015-03-24 03:41:31">/ecurep/pmr/8/6/86731,999,744/mail20150324-082248-Noccnms.Mis           </line>
+<line num="499" date="2015-03-24 03:41:31">File: mail.html                                  83364 bytes            </line>
+<line num="500" date="2015-03-24 03:41:31">File: mail.wri                                   25502 bytes            </line>
+<line num="501" date="2015-03-24 03:41:31" signature="true"> -CDDR15 PMRUPDATE BDC  -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-07:23 SCG</line>
+<line num="502" date="2015-03-24 03:41:31" signature="true"> -CDDR5 PMRUPDATE RS4   -5724P59DM  -L203/-------P2S2-15/03/24-07:41 -AT</line>
+<line num="503" date="2015-03-24 03:41:31">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="504" date="2015-03-24 03:41:32">------------------------------------------------------------------------</line>
+<line num="505" date="2015-03-24 03:41:32">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="506" date="2015-03-24 03:41:32">/ecurep/pmr/8/6/86731,999,744/mail20150324-084105-tivoli_support        </line>
+<line num="507" date="2015-03-24 03:41:32">File: mail.html                                  85324 bytes            </line>
+<line num="508" date="2015-03-24 03:41:32">File: mail.wri                                   27176 bytes            </line>
+<line num="509" date="2015-03-24 03:41:32">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="510" date="2015-03-24 03:41:32">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="511" date="2015-03-24 03:41:32">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="512" date="2015-03-24 03:41:32">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="513" date="2015-03-24 03:41:32">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="514" date="2015-03-24 03:41:32">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="515" date="2015-03-24 03:41:32">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="516" date="2015-03-24 03:41:32">----------------------------------------------------------------------  </line>
+<line num="517" date="2015-03-24 03:41:32">.                                                                       </line>
+<line num="518" date="2015-03-24 03:41:32">Customer Response:                                                      </line>
+<line num="519" date="2015-03-24 03:41:32">.                                                                       </line>
+<line num="520" date="2015-03-24 03:41:32">Dear Rushabdeo ,                                                        </line>
+<line num="521" date="2015-03-24 03:41:32">.                                                                       </line>
+<line num="522" date="2015-03-24 03:41:32">Again it started giving the same error as below :                       </line>
+<line num="523" date="2015-03-24 03:41:32">.                                                                       </line>
+<line num="524" date="2015-03-24 03:41:32">And the result is same on 5 different systems .                         </line>
+<line num="525" date="2015-03-24 03:41:32">.                                                                       </line>
+<line num="526" date="2015-03-24 03:41:32">Thanks &amp; Regards                                                        </line>
+<line num="527" date="2015-03-24 03:41:32">.                                                                       </line>
+<line num="528" date="2015-03-24 03:41:33">Vishal Gupta                                                            </line>
+<line num="529" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="530" date="2015-03-24 03:41:33">----------------------------------------------------------------------  </line>
+<line num="531" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="532" date="2015-03-24 03:41:33">Action Taken: Sent mail to Customer.                                    </line>
+<line num="533" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="534" date="2015-03-24 03:41:33">Hi Vishal,                                                              </line>
+<line num="535" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="536" date="2015-03-24 03:41:33">1. As you can see error in previous screenshot,                         </line>
+<line num="537" date="2015-03-24 03:41:33">fork: Not enough space                                                  </line>
+<line num="538" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="539" date="2015-03-24 03:41:33">fork(Cleates new process) is not able start ls command                  </line>
+<line num="540" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="541" date="2015-03-24 03:41:33">This issue in not related to TNPM, Its on machine                       </line>
+<line num="542" date="2015-03-24 03:41:33">2. In recently provided Screenshot, Server unexpectedly closed network  </line>
+<line num="543" date="2015-03-24 03:41:33">connection.                                                             </line>
+<line num="544" date="2015-03-24 03:41:33">There seams to be issue in connectivity with SSH server.                </line>
+<line num="545" date="2015-03-24 03:41:33">For both the above issues Please contact your system administrator.     </line>
+<line num="546" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="547" date="2015-03-24 03:41:33">Thank you                                                               </line>
+<line num="548" date="2015-03-24 03:41:33">Regards,                                                                </line>
+<line num="549" date="2015-03-24 03:41:33">Rushabhdeo Kidile                                                       </line>
+<line num="550" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="551" date="2015-03-24 03:41:33">----------------------------------------------------------------------  </line>
+<line num="552" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="553" date="2015-03-24 03:41:33">Action Plan: Wait for Customer Response.                                </line>
+<line num="554" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="555" date="2015-03-24 03:41:33">----------------------------------------------------------------------  </line>
+<line num="556" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="557" date="2015-03-24 03:41:33">NCC: 26/03/2015                                                         </line>
+<line num="558" date="2015-03-24 03:41:33">.                                                                       </line>
+<line num="559" date="2015-03-24 03:41:33">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="560" date="2015-03-25 03:45:15" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-07:41 SCT</line>
+<line num="561" date="2015-03-25 03:45:15" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/24-07:41 -AT</line>
+<line num="562" date="2015-03-25 03:45:15">Contact Made                                                            </line>
+<line num="563" date="2015-03-25 03:45:15" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-07:41 SCC</line>
+<line num="564" date="2015-03-25 03:45:15" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/24-07:41 SAT</line>
+<line num="565" date="2015-03-25 03:45:15"> S5&gt; SERVICE GIVEN= 59  SG/59/                                          </line>
+<line num="566" date="2015-03-25 03:45:15" signature="true"> -CDDR8 PMRUPDATE BDC   -5724P59DM  -L503/-------P2S2-15/03/25-07:44 -AT</line>
+<line num="567" date="2015-03-25 03:45:15">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="568" date="2015-03-25 06:38:20">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="569" date="2015-03-25 06:38:20">/ecurep/pmr/8/6/86731,999,744/mail20150325-084423-Noccnms.Mis           </line>
+<line num="570" date="2015-03-25 06:38:20">File: mail.html                                  92633 bytes            </line>
+<line num="571" date="2015-03-25 06:38:20">File: mail.wri                                   28791 bytes            </line>
+<line num="572" date="2015-03-25 06:38:20" signature="true"> -CDDR8 PMRUPDATE BDC   -5724P59DM  -L503/-------P2S2-15/03/25-07:44 -AT</line>
+<line num="573" date="2015-03-25 06:38:20">CG01 - BACKUP    CALL GENERATED, CTR=12H QUE=NCPROV PRI=2               </line>
+<line num="574" date="2015-03-25 06:38:20" signature="true"> -CDDR8 PMRUPDATE RS4   -5724P59DM  -L203/-------P2S2-15/03/25-10:38 -AT</line>
+<line num="575" date="2015-03-25 06:38:20">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="576" date="2015-03-25 06:38:21">------------------------------------------------------------------------</line>
+<line num="577" date="2015-03-25 06:38:21">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="578" date="2015-03-25 06:38:21">/ecurep/pmr/8/6/86731,999,744/mail20150325-113800-tivoli_support        </line>
+<line num="579" date="2015-03-25 06:38:21">File: mail.html                                  95609 bytes            </line>
+<line num="580" date="2015-03-25 06:38:21">File: mail.wri                                   30517 bytes            </line>
+<line num="581" date="2015-03-25 06:38:21">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="582" date="2015-03-25 06:38:21">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="583" date="2015-03-25 06:38:21">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="584" date="2015-03-25 06:38:21">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="585" date="2015-03-25 06:38:21">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="586" date="2015-03-25 06:38:21">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="587" date="2015-03-25 06:38:21">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="588" date="2015-03-25 06:38:21">----------------------------------------------------------------------- </line>
+<line num="589" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="590" date="2015-03-25 06:38:21">Customer Response:                                                      </line>
+<line num="591" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="592" date="2015-03-25 06:38:21">Dear Rushabhdeo ,                                                       </line>
+<line num="593" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="594" date="2015-03-25 06:38:21">As discussed on call , please let us know if there is a management IP   </line>
+<line num="595" date="2015-03-25 06:38:21">for the proviso/netcool servers . We can login via management IP and    </line>
+<line num="596" date="2015-03-25 06:38:21">kill the process which is consuming that much memory .                  </line>
+<line num="597" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="598" date="2015-03-25 06:38:21">Please revert on this .                                                 </line>
+<line num="599" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="600" date="2015-03-25 06:38:21">Thanks &amp; Regards                                                        </line>
+<line num="601" date="2015-03-25 06:38:21">Vishal Gupta                                                            </line>
+<line num="602" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="603" date="2015-03-25 06:38:21">----------------------------------------------------------------------- </line>
+<line num="604" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="605" date="2015-03-25 06:38:21">Action Taken:                                                           </line>
+<line num="606" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="607" date="2015-03-25 06:38:21">Hi Pandu,                                                               </line>
+<line num="608" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="609" date="2015-03-25 06:38:21">There is no such management IP or service in TNPM for managing this     </line>
+<line num="610" date="2015-03-25 06:38:21">issue. &amp; The issue of &quot;fork: Not enough space&quot; &amp; &quot;connectivity with SSH </line>
+<line num="611" date="2015-03-25 06:38:21">server&quot; is not related to TNPM but an issue with system.                </line>
+<line num="612" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="613" date="2015-03-25 06:38:21">As your System Engineers are looking into the same. Lets wait for there </line>
+<line num="614" date="2015-03-25 06:38:21">response.                                                               </line>
+<line num="615" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="616" date="2015-03-25 06:38:21">Thank you.                                                              </line>
+<line num="617" date="2015-03-25 06:38:21">Regards,                                                                </line>
+<line num="618" date="2015-03-25 06:38:21">Rushabhdeo Kidile.                                                      </line>
+<line num="619" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="620" date="2015-03-25 06:38:21">----------------------------------------------------------------------- </line>
+<line num="621" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="622" date="2015-03-25 06:38:21">Action Plan: Wait for Customer Response.                                </line>
+<line num="623" date="2015-03-25 06:38:21">.                                                                       </line>
+<line num="624" date="2015-03-25 06:42:59">----------------------------------------------------------------------- </line>
+<line num="625" date="2015-03-25 06:42:59">.                                                                       </line>
+<line num="626" date="2015-03-25 06:42:59">NCC: 27/03/2015                                                         </line>
+<line num="627" date="2015-03-25 06:42:59">.                                                                       </line>
+<line num="628" date="2015-03-25 06:42:59">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="629" date="2015-03-25 06:42:59" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/25-10:42 SCT</line>
+<line num="630" date="2015-03-25 06:42:59" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/25-10:42 -AT</line>
+<line num="631" date="2015-03-25 06:42:59">Contact Made                                                            </line>
+<line num="632" date="2015-03-28 09:39:30" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/25-10:42 SCC</line>
+<line num="633" date="2015-03-28 09:39:30" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/25-10:42 SAT</line>
+<line num="634" date="2015-03-28 09:39:30"> S5&gt; SERVICE GIVEN= 99  SG/99/                                          </line>
+<line num="635" date="2015-03-28 09:39:30" signature="true"> -CDDR28 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/28-13:39 -AT</line>
+<line num="636" date="2015-03-28 09:39:30">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="637" date="2015-03-28 09:39:30">------------------------------------------------------------------------</line>
+<line num="638" date="2015-03-28 09:39:30">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="639" date="2015-03-28 09:39:30">/ecurep/pmr/8/6/86731,999,744/mail20150328-143909-tivoli_support        </line>
+<line num="640" date="2015-03-28 09:39:30">File: mail.html                                  96678 bytes            </line>
+<line num="641" date="2015-03-28 09:39:30">File: mail.wri                                   31282 bytes            </line>
+<line num="642" date="2015-03-28 09:39:30">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="643" date="2015-03-28 09:39:30">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="644" date="2015-03-28 09:39:30">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="645" date="2015-03-28 09:39:30">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="646" date="2015-03-28 09:39:30">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="647" date="2015-03-28 09:39:30">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="648" date="2015-03-28 09:39:31">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="649" date="2015-03-28 09:39:31">------------------------------------------------------------------------</line>
+<line num="650" date="2015-03-28 09:39:31">.                                                                       </line>
+<line num="651" date="2015-03-28 09:39:31">Action Taken: Sent mail to customer.                                    </line>
+<line num="652" date="2015-03-28 09:39:31">.                                                                       </line>
+<line num="653" date="2015-03-28 09:39:31">Hi,                                                                     </line>
+<line num="654" date="2015-03-28 09:39:31">.                                                                       </line>
+<line num="655" date="2015-03-28 09:39:31">Good day.                                                               </line>
+<line num="656" date="2015-03-28 09:39:31">.                                                                       </line>
+<line num="657" date="2015-03-28 09:39:31">Can we have update on this. Any update from your System Engineers Team. </line>
+<line num="658" date="2015-03-28 09:39:31">.                                                                       </line>
+<line num="659" date="2015-03-28 09:39:31">Thank you.                                                              </line>
+<line num="660" date="2015-03-28 09:39:31">Regards,                                                                </line>
+<line num="661" date="2015-03-28 09:39:31">Rushabhdeo Kidile                                                       </line>
+<line num="662" date="2015-03-28 09:39:31">.                                                                       </line>
+<line num="663" date="2015-03-28 09:39:31">------------------------------------------------------------------------</line>
+<line num="664" date="2015-03-30 05:51:45">.                                                                       </line>
+<line num="665" date="2015-03-30 05:51:45">Action Plan: Wait for customer Response.                                </line>
+<line num="666" date="2015-03-30 05:51:45">.                                                                       </line>
+<line num="667" date="2015-03-30 05:51:45">------------------------------------------------------------------------</line>
+<line num="668" date="2015-03-30 05:51:45">.                                                                       </line>
+<line num="669" date="2015-03-30 05:51:45">NCC: 30/03/2015                                                         </line>
+<line num="670" date="2015-03-30 05:51:45">.                                                                       </line>
+<line num="671" date="2015-03-30 05:51:45">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="672" date="2015-03-30 05:51:46" signature="true"> -CDDR24 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/30-09:51 -AT</line>
+<line num="673" date="2015-03-30 05:51:46">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="674" date="2015-03-30 05:51:46">------------------------------------------------------------------------</line>
+<line num="675" date="2015-03-30 05:51:46">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="676" date="2015-03-30 05:51:46">/ecurep/pmr/8/6/86731,999,744/mail20150330-115126-tivoli_support        </line>
+<line num="677" date="2015-03-30 05:51:46">File: mail.html                                  99204 bytes            </line>
+<line num="678" date="2015-03-30 05:51:46">File: mail.wri                                   32275 bytes            </line>
+<line num="679" date="2015-03-30 05:51:46">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="680" date="2015-03-30 05:51:46">This email was also sent to: tivoli_support@ecurep.ibm.com              </line>
+<line num="681" date="2015-03-30 05:51:46">Also copied: &amp;quot;Noccnms.Mis&amp;quot; &amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;, </line>
+<line num="682" date="2015-03-30 05:51:46">tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;, Praneeth      </line>
+<line num="683" date="2015-03-30 05:51:46">Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy Chada      </line>
+<line num="684" date="2015-03-30 05:51:46">&amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P                </line>
+<line num="685" date="2015-03-30 05:51:46">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="686" date="2015-03-30 05:51:46">Action Taken: sent mail to customer.                                    </line>
+<line num="687" date="2015-03-30 05:51:46">============                                                            </line>
+<line num="688" date="2015-03-30 05:51:46">.                                                                       </line>
+<line num="689" date="2015-03-30 05:51:46">Hi Pandu,                                                               </line>
+<line num="690" date="2015-03-30 05:51:46">.                                                                       </line>
+<line num="691" date="2015-03-30 05:51:46">Can we have an update on this PMR, as we can see this is a system issue </line>
+<line num="692" date="2015-03-30 05:51:46">you need to contact your system admin team.                             </line>
+<line num="693" date="2015-03-30 05:51:46">Once the server is up and running, you can start the  pvmd  process on  </line>
+<line num="694" date="2015-03-30 05:51:46">it and run the inventory.                                               </line>
+<line num="695" date="2015-03-30 05:51:46">.                                                                       </line>
+<line num="696" date="2015-03-30 05:51:46">As per our policy we can not keep inactive PMR open for a long period,  </line>
+<line num="697" date="2015-03-30 05:51:46">so can we close this PMR?                                               </line>
+<line num="698" date="2015-03-30 05:51:46">.                                                                       </line>
+<line num="699" date="2015-03-30 05:51:46">Thanks &amp; regards,                                                       </line>
+<line num="700" date="2015-03-30 05:51:46">Bhanu Singh                                                             </line>
+<line num="701" date="2015-03-30 05:51:46">.                                                                       </line>
+<line num="702" date="2015-03-30 05:51:46">================================================                        </line>
+<line num="703" date="2015-03-30 05:51:46">Action Plan: Waiting for customer response.                             </line>
+<line num="704" date="2015-03-30 06:06:21">.                                                                       </line>
+<line num="705" date="2015-03-30 06:06:21">NCC: 31st March 2015.                                                   </line>
+<line num="706" date="2015-03-30 06:06:21">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="707" date="2015-03-30 06:06:21" signature="true"> -CDDR24 PMRUPDATE RS4  -5724P59DM  -L203/-------P2S2-15/03/30-09:51 -AT</line>
+<line num="708" date="2015-03-30 06:06:21">ECuRep Mail Gateway - mail from support (tivoli_support@ecurep.ibm.com) </line>
+<line num="709" date="2015-03-30 06:06:21">/ecurep/pmr/8/6/86731,999,744/mail20150330-115126-952-tivoli_support    </line>
+<line num="710" date="2015-03-30 06:06:21" signature="true"> -CDDR17 PMRUPDATE BDC  -5724P59DM  -L503/-------P2S2-15/03/30-10:05 -AT</line>
+<line num="711" date="2015-03-30 06:06:21">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="712" date="2015-03-30 06:35:41">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="713" date="2015-03-30 06:35:41">/ecurep/pmr/8/6/86731,999,744/mail20150330-120535-Noccnms.Mis           </line>
+<line num="714" date="2015-03-30 06:35:41">File: mail.html                                 109144 bytes            </line>
+<line num="715" date="2015-03-30 06:35:41">File: mail.wri                                   34325 bytes            </line>
+<line num="716" date="2015-03-30 06:35:41" signature="true"> -CDDR17 PMRUPDATE BDC  -5724P59DM  -L12H/NCPROV-P2S2-15/03/30-10:06 SCG</line>
+<line num="717" date="2015-03-30 06:35:41" signature="true"> -CDDR8 PMRUPDATE RS4   -5724P59DM  -L203/-------P2S2-15/03/30-10:35 -AT</line>
+<line num="718" date="2015-03-30 06:35:41">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="719" date="2015-03-30 06:35:41">------------------------------------------------------------------------</line>
+<line num="720" date="2015-03-30 06:35:41">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="721" date="2015-03-30 06:35:41">/ecurep/pmr/8/6/86731,999,744/mail20150330-123509-tivoli_support        </line>
+<line num="722" date="2015-03-30 06:35:41">File: mail.html                                 110742 bytes            </line>
+<line num="723" date="2015-03-30 06:35:41">File: mail.wri                                   36178 bytes            </line>
+<line num="724" date="2015-03-30 06:35:41">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="725" date="2015-03-30 06:35:41">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="726" date="2015-03-30 06:35:41">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="727" date="2015-03-30 06:35:41">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="728" date="2015-03-30 06:35:42">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="729" date="2015-03-30 06:35:42">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="730" date="2015-03-30 06:35:42">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="731" date="2015-03-30 06:35:42">Action Taken: sent mail to customer.                                    </line>
+<line num="732" date="2015-03-30 06:35:42">=============                                                           </line>
+<line num="733" date="2015-03-30 06:35:42">.                                                                       </line>
+<line num="734" date="2015-03-30 06:35:42">Hi Pandu,                                                               </line>
+<line num="735" date="2015-03-30 06:35:42">.                                                                       </line>
+<line num="736" date="2015-03-30 06:35:42">Good day.                                                               </line>
+<line num="737" date="2015-03-30 06:35:42">.                                                                       </line>
+<line num="738" date="2015-03-30 06:35:42">As discussed on call, inventory successfully completed at your end using</line>
+<line num="739" date="2015-03-30 06:35:42"> provided steps.                                                        </line>
+<line num="740" date="2015-03-30 06:35:42">As the Issue is resolved now shall we move ahead and complete the PMR   </line>
+<line num="741" date="2015-03-30 06:35:42">closing formalities.                                                    </line>
+<line num="742" date="2015-03-30 06:35:42">.                                                                       </line>
+<line num="743" date="2015-03-30 06:35:42">Please let us know your view on this.                                   </line>
+<line num="744" date="2015-03-30 06:45:13">.                                                                       </line>
+<line num="745" date="2015-03-30 06:45:13">Thanks &amp;  regards,                                                      </line>
+<line num="746" date="2015-03-30 06:45:13">Bhanu Singh                                                             </line>
+<line num="747" date="2015-03-30 06:45:13">.                                                                       </line>
+<line num="748" date="2015-03-30 06:45:13">Action Plan: Waiting for customer response.                             </line>
+<line num="749" date="2015-03-30 06:45:13">.                                                                       </line>
+<line num="750" date="2015-03-30 06:45:13">NCC: 30th March 2015.                                                   </line>
+<line num="751" date="2015-03-30 06:45:13">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="752" date="2015-03-30 07:19:04" signature="true"> -CDDR14 PMRUPDATE BDC  -5724P59DM  -L503/-------P2S2-15/03/30-10:44 -AT</line>
+<line num="753" date="2015-03-30 07:19:04">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="754" date="2015-03-30 07:19:04">Mail From: &quot;Noccnms.Mis&quot; &lt;Noccnms.Mis@tatatel.co.in&gt;                    </line>
+<line num="755" date="2015-03-30 07:19:04">/ecurep/pmr/8/6/86731,999,744/mail20150330-124426-Noccnms.Mis           </line>
+<line num="756" date="2015-03-30 07:19:04">File: mail.html                                 116840 bytes            </line>
+<line num="757" date="2015-03-30 07:19:04">File: mail.wri                                   37311 bytes            </line>
+<line num="758" date="2015-03-30 07:19:04" signature="true"> -CDDR PMRUPDATE RS4    -5724P59DM  -L203/-------P2S2-15/03/30-11:18 -AT</line>
+<line num="759" date="2015-03-30 07:19:04">ECuRep Mail Gateway - Received Mail and stored in ECuRep                </line>
+<line num="760" date="2015-03-30 07:19:04">------------------------------------------------------------------------</line>
+<line num="761" date="2015-03-30 07:19:04">Mail From: tivoli_support@ecurep.ibm.com                                </line>
+<line num="762" date="2015-03-30 07:19:04">/ecurep/pmr/8/6/86731,999,744/mail20150330-131814-tivoli_support        </line>
+<line num="763" date="2015-03-30 07:19:04">File: mail.html                                 119719 bytes            </line>
+<line num="764" date="2015-03-30 07:19:04">File: mail.wri                                   39143 bytes            </line>
+<line num="765" date="2015-03-30 07:19:04">---------------------------- EMAIL TEXT START --------------------------</line>
+<line num="766" date="2015-03-30 07:19:04">This email was also sent to: &amp;quot;Noccnms.Mis&amp;quot;                    </line>
+<line num="767" date="2015-03-30 07:19:04">&amp;lt;Noccnms.Mis@tatatel.co.in&amp;gt;                                       </line>
+<line num="768" date="2015-03-30 07:19:04">Also copied: tnpm_l2_wireline &amp;lt;tnpm_l2_wireline@persistent.com&amp;gt;,  </line>
+<line num="769" date="2015-03-30 07:19:04">Praneeth Somaraju &amp;lt;Praneeth.Somaraju@tatatel.co.in&amp;gt;, MallaReddy   </line>
+<line num="770" date="2015-03-30 07:19:04">Chada &amp;lt;MallaReddy.Chada@tatatel.co.in&amp;gt;, Venkata Prasad P          </line>
+<line num="771" date="2015-03-30 07:19:04">&amp;lt;VenkataPrasad.Potturi@tatatel.co.in&amp;gt;                             </line>
+<line num="772" date="2015-03-30 07:19:04">customer response:                                                      </line>
+<line num="773" date="2015-03-30 07:19:04">Dear Bhanu,                                                             </line>
+<line num="774" date="2015-03-30 07:19:04">.                                                                       </line>
+<line num="775" date="2015-03-30 07:19:04">As the Issue is resolved now, you can move ahead and complete the PMR   </line>
+<line num="776" date="2015-03-30 07:19:05">closing formalities.                                                    </line>
+<line num="777" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="778" date="2015-03-30 07:19:05">Thanks &amp; Regards                                                        </line>
+<line num="779" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="780" date="2015-03-30 07:19:05">Pandu.E                                                                 </line>
+<line num="781" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="782" date="2015-03-30 07:19:05">Phone : 08414665080.                                                    </line>
+<line num="783" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="784" date="2015-03-30 07:19:05">For any support contact proviso.admin@tatatel.co.in and raise a NFT.    </line>
+<line num="785" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="786" date="2015-03-30 07:19:05">NFT Link: http://10.209.96.156/maximo/webclient/login/login.jsp         </line>
+<line num="787" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="788" date="2015-03-30 07:19:05">Action taken: closing the PMR.                                          </line>
+<line num="789" date="2015-03-30 07:19:05">==============                                                          </line>
+<line num="790" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="791" date="2015-03-30 07:19:05">Hi Pandu,                                                               </line>
+<line num="792" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="793" date="2015-03-30 07:19:05">Thanks for the closure consent, and contacting TNPM support team.       </line>
+<line num="794" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="795" date="2015-03-30 07:19:05">Thanks &amp; regards,                                                       </line>
+<line num="796" date="2015-03-30 07:19:05">Bhanu Singh                                                             </line>
+<line num="797" date="2015-03-30 07:19:05">.                                                                       </line>
+<line num="798" date="2015-03-30 07:19:05">Action PLan: closing the PMR.                                           </line>
+<line num="799" date="2015-03-30 07:19:05">NCC: NA                                                                 </line>
+<line num="800" date="2015-03-30 07:24:39">---------------------------- EMAIL TEXT END ----------------------------</line>
+<line num="801" date="2015-03-30 07:24:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/30-11:19 SCT</line>
+<line num="802" date="2015-03-30 07:24:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/30-11:19 -AT</line>
+<line num="803" date="2015-03-30 07:24:39">Contact Made                                                            </line>
+<line num="804" date="2015-03-30 07:24:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/30-11:20 SCC</line>
+<line num="805" date="2015-03-30 07:24:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROV-P2S2-15/03/30-11:20 SAT</line>
+<line num="806" date="2015-03-30 07:24:39"> S5&gt; SERVICE GIVEN= 1M  SG/1M/                                          </line>
+<line num="807" date="2015-03-30 07:24:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROW-P2S2-15/03/30-11:23 -CT</line>
+<line num="808" date="2015-03-30 07:24:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/-------P2S2-15/03/30-11:23 -AT</line>
+<line num="809" date="2015-03-30 07:24:39">Contact Made                                                            </line>
+<line num="810" date="2015-03-30 07:24:39" signature="true"> +KIDILE, RUSHABHDEO    -5724P59DM  -L12H/NCPROW-P2S2-15/03/30-11:24 -CC</line>
+<line num="811" date="2015-03-30 07:24:39"> S5&gt; SERVICE GIVEN= 19  SG/19/                                          </line>
+<line num="812" date="2015-03-30 07:24:39">PROBLEM:                                                                </line>
+<line num="813" date="2015-03-30 07:24:39">                                                                        </line>
+<line num="814" date="2015-03-30 07:24:39">                                                                        </line>
+<line num="815" date="2015-03-30 07:24:39">Entitlement checked: YES via ccms                                       </line>
+<line num="816" date="2015-03-30 07:25:10">Email:      proviso.admin@tatatel.co.in, noccnms.mis@tatatel.co.in      </line>
+<line num="817" date="2015-03-30 07:25:10">Environment:  aix 6.1                                                   </line>
+<line num="818" date="2015-03-30 07:25:10">Product Failing:  TNPM 1.3                                              </line>
+<line num="819" date="2015-03-30 07:25:10">Problem Description:                                                    </line>
+<line num="820" date="2015-03-30 07:25:10">We are not able to run inventory command in the Datamart server for a   </line>
+<line num="821" date="2015-03-30 07:25:10">specific profile name : CISCO_DCNsIt is giving error aborted  .         </line>
+<line num="822" date="2015-03-30 07:25:10">                                                                        </line>
+<line num="823" date="2015-03-30 07:25:10">Please help us solve this issue ASAP.                                   </line>
+<line num="824" date="2015-03-30 07:25:10">                                                                        </line>
+<line num="825" date="2015-03-30 07:25:10">ACTION TAKEN:                                                           </line>
+<line num="826" date="2015-03-30 07:25:10">we requested customer:                                                  </line>
+<line num="827" date="2015-03-30 07:25:10">                                                                        </line>
+<line num="828" date="2015-03-30 07:25:10">           1)  From the logs, looks like either dataLoad server is down </line>
+<line num="829" date="2015-03-30 07:25:10">or some                                                                 </line>
+<line num="830" date="2015-03-30 07:25:10">network issue.                                                          </line>
+<line num="831" date="2015-03-30 07:25:10">.                                                                       </line>
+<line num="832" date="2015-03-30 07:25:10">2) Run below commands and check if collector is running                 </line>
+<line num="833" date="2015-03-30 07:25:10">      a. ps -ef | grep pvmd                                             </line>
+<line num="834" date="2015-03-30 07:25:10">      b. pvmdctrl status                                                </line>
+<line num="835" date="2015-03-30 07:25:10">3)  If there is no pvmd process running, start using &quot;pvmdmgr start&quot;    </line>
+<line num="836" date="2015-03-30 07:25:10">command.                                                                </line>
+<line num="837" date="2015-03-30 07:25:10">.                                                                       </line>
+<line num="838" date="2015-03-30 07:25:10">4) Then check dataLoad host is reachable from dataMart host - telnet    </line>
+<line num="839" date="2015-03-30 07:25:10">TTSLMUMDL2 3002                                                         </line>
+<line num="840" date="2015-03-30 07:25:10">.                                                                       </line>
+<line num="841" date="2015-03-30 07:25:10">5)  At last, run inventory in debug mode - inventory -noX -action all   </line>
+<line num="842" date="2015-03-30 07:25:10">-name &lt;profile name&gt; -D 10                                              </line>
+<line num="843" date="2015-03-30 07:25:10">.                                                                       </line>
+<line num="844" date="2015-03-30 07:25:10">6) Upload TraceInventory.log, proviso.log files.                        </line>
+<line num="845" date="2015-03-30 07:25:10">                                                                        </line>
+<line num="846" date="2015-03-30 07:25:10">ACTION PLAN:                                                            </line>
+<line num="847" date="2015-03-30 07:25:10">closing PMR with customer closure response.                             </line>
+</text>
+</record>
