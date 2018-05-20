@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: TNPM_Watson
+  host: TNPM_Watson.mybluemix.net
+  disk_quota: 1024M
+  buildpack: python_buildpack
+  services:
+  - Natural Language Classifier_test
